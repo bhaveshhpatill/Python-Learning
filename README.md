@@ -26,6 +26,16 @@ Hi! I'm Bhavesh, and this repository documents my Python learning journey.
 - String Methods
 - Username Validator
 
+### ✅ Day 5
+- Lists
+- List Indexing
+- Negative Indexing
+- append()
+- remove()
+- pop()
+- len()
+- Looping through Lists
+- Mini To-Do List Application
 ---
 
 ## 🎯 My Goal
@@ -47,6 +57,7 @@ Python-Learning/
 ├── Day02/
 ├── Day03/
 ├── Day04/
+├── Day05/
 └── Mini-Projects/
 ```
 
