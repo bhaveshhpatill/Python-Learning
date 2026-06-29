@@ -36,6 +36,14 @@ Hi! I'm Bhavesh, and this repository documents my Python learning journey.
 - len()
 - Looping through Lists
 - Mini To-Do List Application
+
+### ✅ Day 6
+- While Loops
+- while True
+- break
+- Input Validation
+- Password Checker
+- Number Guessing Game
 ---
 
 ## 🎯 My Goal
