@@ -73,6 +73,19 @@ Hi! I'm Bhavesh, and this repository documents my Python learning journey as I l
 - Function Parameters
 - Function Execution Flow
 
+### ✅ Day 9
+- Functions
+- Function Parameters
+- Function Arguments
+- return Statement
+- Local & Global Variables
+- Function Execution Flow
+- Built-in Functions (`sum()`)
+- Creating Custom Functions
+- `my_sum()` Function
+- `my_max()` Function
+- Refactored Calculator Using Functions
+- ATM System
 ---
 
 # 🎯 Goal
@@ -87,7 +100,7 @@ Hi! I'm Bhavesh, and this repository documents my Python learning journey as I l
 
 # 📂 Repository Structure
 
-```
+```text
 Python-Learning/
 │
 ├── README.md
@@ -99,16 +112,20 @@ Python-Learning/
 ├── Day06/
 ├── Day07/
 ├── Day08/
+├── Day09/
 └── Mini-Projects/
+```
 ```
 
 ---
-## 💻 Projects Built
+## 💻 Mini Projects
 
-- ✅ Student Record Manager
-- ✅ Login System
-- ✅ Calculator
-- ✅ Shopping Cart System
-- ✅ Guessing Game V2
+- Student Record Manager
+- Password Checker
+- Login System
+- Calculator
+- Shopping Cart
+- Number Guessing Game
+- ATM System
 
 ⭐ I update this repository regularly as I continue my Python learning journey by building projects instead of just following tutorials.
