@@ -1,6 +1,6 @@
 # 🐍 Python Learning Journey
 
-Hi! I'm Bhavesh, and this repository documents my Python learning journey as I learn Python from scratch by building projects and solving problems.
+Hi! I'm Bhavesh, and this repository documents my Python learning journey as I learn Python from scratch by building projects, solving problems, and understanding programming concepts instead of just memorizing syntax.
 
 ---
 
@@ -80,19 +80,81 @@ Hi! I'm Bhavesh, and this repository documents my Python learning journey as I l
 - return Statement
 - Local & Global Variables
 - Function Execution Flow
-- Built-in Functions (`sum()`)
-- Creating Custom Functions
-- `my_sum()` Function
-- `my_max()` Function
-- Refactored Calculator Using Functions
+- Built-in Functions
+- Custom Functions
+- `my_sum()`
+- `my_max()`
+- Refactored Calculator
 - ATM System
+
+### ✅ Day 10
+- Dictionaries
+- Key-Value Pairs
+- Dictionary Methods
+- `get()`
+- `keys()`
+- `values()`
+- `items()`
+- `pop()`
+- Updating Dictionary Values
+- Student Information System
+
+### ✅ Day 11
+- Dictionary Review
+- `update()`
+- `copy()`
+- `clear()`
+- Tuples
+- Sets
+- Choosing the Right Data Structure
+- Contact Book
+- Attendance Management System
+
+---
+
+# 🧠 Python Concepts Covered
+
+- Variables
+- Data Types
+- Input / Output
+- Operators
+- Conditional Statements
+- Loops
+- Strings
+- Lists
+- Functions
+- Scope
+- Dictionaries
+- Tuples
+- Sets
+- Built-in Functions
+- User-defined Functions
+- Menu-driven Programs
+- Problem Solving
+
+---
+
+# 💻 Mini Projects
+
+- Student Record Manager
+- Password Checker
+- Login System
+- Calculator
+- Shopping Cart System
+- Number Guessing Game
+- ATM System
+- Student Information System
+- Contact Book
+- Attendance Management System
+
 ---
 
 # 🎯 Goal
 
 - Learn Python from scratch.
-- Build problem-solving skills.
-- Build real-world projects.
+- Build strong problem-solving skills.
+- Understand programming concepts deeply.
+- Build real-world mini projects.
 - Prepare for Business Analytics & Automation.
 - Create a strong GitHub portfolio.
 
@@ -113,19 +175,11 @@ Python-Learning/
 ├── Day07/
 ├── Day08/
 ├── Day09/
-└── Mini-Projects/
-```
+├── Day10/
+├── Day11/
+└── Mini_Projects/
 ```
 
 ---
-## 💻 Mini Projects
 
-- Student Record Manager
-- Password Checker
-- Login System
-- Calculator
-- Shopping Cart
-- Number Guessing Game
-- ATM System
-
-⭐ I update this repository regularly as I continue my Python learning journey by building projects instead of just following tutorials.
+⭐ I update this repository regularly as I continue learning Python by building projects, debugging my own code, and understanding how programs work instead of only following tutorials.
