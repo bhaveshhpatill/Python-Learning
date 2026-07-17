@@ -1,4 +1,5 @@
-print("nnotes manager v2")
+
+print("notes manager v2")
 
 
 import os
@@ -50,7 +51,7 @@ def create_file():
 
 def exit_program():
     print("Exiting the program.")
-    exit()  \
+    exit()
 
 while True:
     menu()
