@@ -36,13 +36,27 @@ while True:
     subtotal = quantity * products[product]
 
     break
-print(f"Subtotal: ₹{subtotal}")
 
+discount=0
 if subtotal > 10000:
     discount = subtotal * 15 / 100
-    subtotal = subtotal - discount
+    finalamount = subtotal - discount
+else:
+    finalamount = subtotal
+    
+print("========= Reliance Retail =========")
 
-print(f"Final Bill: ₹{subtotal}")
+print(f"Product: {product}")
 
+print(f"price: {products[product]}")
 
+print(f"Quantity: {quantity}")
+
+print(f"Subtotal: ₹{subtotal}")
+
+print(f"discount: {discount}")
+
+print(f"Final Bill: ₹{finalamount}")
+
+print("Thank you for shopping!")
 
